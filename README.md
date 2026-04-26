@@ -1,10 +1,14 @@
-﻿# Hi, I'm UIhoshi
+﻿<div align="center">
 
-Independent developer & AI-assisted engineering practitioner based in Japan.
+# UIhoshi
 
-I build practical tools for enterprise operations, desktop workflows, closed-network environments, and AI-assisted engineering workflows.
+**Independent developer & AI-assisted engineering practitioner based in Japan**
 
-My background is operations-first, with long-term exposure to desktop operations, network operations, and datacenter-facing enterprise environments. That experience shapes how I work today: I focus on software that is usable, stable, and realistic for real internal workflows.
+Building practical tools for enterprise operations, desktop workflows, closed-network environments, and AI-assisted engineering workflows.
+
+</div>
+
+---
 
 ## What I Do
 
@@ -45,16 +49,11 @@ I’m also exploring AI-related product directions beyond LAN or closed-network 
 - documentation-driven collaboration
 - practical productization of human + AI workflows
 
-## How I Work
+## Background
 
-I’m strongest when turning vague or operationally complex requirements into practical software with AI-assisted engineering.
+My background is operations-first, with long-term exposure to desktop operations, network operations, and datacenter-facing enterprise environments.
 
-Especially strong in environments that are:
-
-- closed-network or offline-heavy
-- operationally messy
-- desktop-centered
-- constrained by enterprise reality
+That experience shapes how I work today: I focus on software that is usable, stable, and realistic for real internal workflows.
 
 ## Focus
 
@@ -64,7 +63,3 @@ Especially strong in environments that are:
 - Enterprise workflows
 - Operations-oriented software
 - Local-first / offline-capable systems
-
-## Based In
-
-Japan
