@@ -4,11 +4,17 @@
 
 **Independent developer & AI-assisted engineering practitioner based in Japan**
 
-Building practical tools for enterprise operations, desktop workflows, closed-network environments, and AI-assisted engineering workflows.
+Building practical software for enterprise workflows, desktop environments, and evolving human + AI engineering collaboration.
 
 </div>
 
 ---
+
+## About Me
+
+I build practical tools for enterprise operations, desktop workflows, closed-network environments, and AI-assisted engineering workflows.
+
+My background is operations-first, with long-term exposure to desktop operations, network operations, and datacenter-facing enterprise environments. That experience shapes how I work today: I focus on software that is usable, stable, and realistic for real internal workflows.
 
 ## What I Do
 
@@ -49,11 +55,14 @@ I’m also exploring AI-related product directions beyond LAN or closed-network 
 - documentation-driven collaboration
 - practical productization of human + AI workflows
 
-## Background
+## Open to Opportunities
 
-My background is operations-first, with long-term exposure to desktop operations, network operations, and datacenter-facing enterprise environments.
+I’m open to collaboration, product work, and engineering opportunities related to:
 
-That experience shapes how I work today: I focus on software that is usable, stable, and realistic for real internal workflows.
+- AI-assisted product development
+- desktop and local-first tools
+- enterprise workflow software
+- internal tools for operational or closed-network environments
 
 ## Focus
 
