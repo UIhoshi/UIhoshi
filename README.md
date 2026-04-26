@@ -2,29 +2,29 @@
 
 # UIhoshi
 
-**Independent developer & AI-assisted engineering practitioner based in Japan**
+**Independent developer · AI-assisted engineering practitioner · Based in Japan**
 
-Building practical software for enterprise workflows, desktop environments, and evolving human + AI engineering collaboration.
+Building practical software for enterprise workflows, desktop environments, and evolving human + AI collaboration.
 
 </div>
 
 ---
 
-## About Me
+## About
 
 I build practical tools for enterprise operations, desktop workflows, closed-network environments, and AI-assisted engineering workflows.
 
-My background is operations-first, with long-term exposure to desktop operations, network operations, and datacenter-facing enterprise environments. That experience shapes how I work today: I focus on software that is usable, stable, and realistic for real internal workflows.
+With an operations-first background across desktop, network, and datacenter-facing environments, I care about software that is stable, usable, and realistic under real operational constraints.
 
 ## What I Do
 
-- Build practical desktop and local-first tools
+- Build desktop and local-first tools
 - Turn customer needs into working products with AI collaboration
 - Design for enterprise constraints, offline deployment, and operational stability
 - Develop evolving logic for AI-assisted engineering workflows
 - Explore structured human + AI collaboration for real-world product building
 
-## Current Public Projects
+## Featured Work
 
 ### [EaaSE-ExcelasaSearchEngine](https://github.com/UIhoshi/EaaSE-ExcelasaSearchEngine)
 Make Excel search fast again across messy local workbooks and CSV files, without opening them one by one.
@@ -32,12 +32,12 @@ Make Excel search fast again across messy local workbooks and CSV files, without
 ### [screenhub-display-management](https://github.com/UIhoshi/screenhub-display-management)
 LAN-based Electron display management system for screen playback, remote control, offline deployment, and stable client/server delivery.
 
-## What I'm Building Now
+## Building Now
 
 ### AgentLogic
 I’m building AgentLogic, a continuously evolving logic system for AI-assisted engineering, iterated from V1 to V6 through real project practice.
 
-It focuses on:
+Core themes:
 
 - project entry logic
 - context control
