@@ -5,11 +5,11 @@ Before making changes here, read AGENTS.md and README.md first.
 
 <div align="center">
 
-# 🌌 UIhoshi
+# 🌌 Hi there, I'm UIhoshi! 👋
 
-**Independent Developer · AI-Assisted Engineering Practitioner · Based in Japan**
+**Independent Developer · Operations-First Practitioner · Based in Japan 🇯🇵**
 
-Building practical software for enterprise workflows, desktop environments, and evolving human + AI collaboration.
+*Crafting robust, local-first tools and exploring the frontiers of Human-AI collaboration.*
 
 ---
 
@@ -23,45 +23,51 @@ Building practical software for enterprise workflows, desktop environments, and 
 
 ## 🎯 About Me
 
-I specialize in building practical, high-integrity tools for enterprise operations, desktop workflows, closed-network environments, and AI-assisted software engineering. 
+I am an independent developer with an operations-first background spanning desktop support, network administration, and datacenter infrastructure. Because of this background, I care deeply about building software that is **stable, offline-capable (local-first), and highly reliable** under real-world operational constraints. 
 
-With an operations-first background spanning desktop, network, and datacenter environments, I focus on software that is highly stable, offline-capable, and optimized for real-world constraints.
-
----
-
-## 🚀 Featured Work (Portfolios)
-
-The following repositories represent core product baselines designed for local-first execution and operational reliability:
-
-| Project / Repository | Core Purpose | Target Environment |
-| :--- | :--- | :--- |
-| **[EaaSE (Excel as a Search Engine)](https://github.com/UIhoshi/EaaSE-ExcelasaSearchEngine)** | Turns hundreds of local Excel workbooks and CSV files into an instant searchable index database. | Local Desktop (Windows / Linux) |
-| **[Offline PDF Toolkit (pdforge)](https://github.com/UIhoshi/pdforge)** | Offline-first PDF merge, split, and page-level editing tool (rotate, delete, drag-and-drop reorder). | Web / Electron / LAN Deployment |
-| **[ScreenHub Display Management](https://github.com/UIhoshi/screenhub-display-management)** | LAN-based central display management server and playback monitor client system. | Windows LAN / Offline Signage |
+I believe software should solve practical problems efficiently, protect user privacy, and run seamlessly without heavy cloud dependencies.
 
 ---
 
-## 🏗️ Active Projects & Evolving Mindsets
+## 🚀 What I've Crafted (Featured Work)
 
-### [AgentLogic (V6.65)](https://github.com/UIhoshi/AgentLogic)
-I am actively developing **AgentLogic**, a local self-evolving rule engine and prompt operating system that structures the collaboration between humans and AI agents. It enforces rigorous software spec validation, context forgetting gates, and tool routing constraints.
+Here are the key projects I've built, focused on local-first utility and performance:
 
-* **Core Principles**:
-  * Project start & update gate enforcement (`00_START_HERE.md` / `MAIN.md`)
-  * Spec-Driven Development (SDD) contract checks
-  * Multi-turn context budget auditing and dream-state memory consolidation
-  * Visual aesthetic design-first prototyping gates
+* ### 📂 **[EaaSE (Excel as a Search Engine)](https://github.com/UIhoshi/EaaSE-ExcelasaSearchEngine)**
+  * **What it does**: Turns hundreds of local Excel workbooks and CSV files into an instant, searchable index database.
+  * **Why I built it**: To make scanning scattered spreadsheets fast, read-only, and completely offline, without needing to open them one by one or migrate them to a database server.
 
-### AI Workflow Research
-Beyond closed-network systems, I am researching advanced methodologies for human + AI collaborative software building, specifically:
-* Reusable execution logic and portable domain skills
-* Tool security sandboxing and safety interception pipelines
-* Documentation-driven collaboration models
+* ### 📂 **[Offline PDF Toolkit (pdforge)](https://github.com/UIhoshi/pdforge)**
+  * **What it does**: An offline-first PDF merging, splitting, and page-level editing utility (supporting page rotation, deletion, and drag-and-drop reordering).
+  * **Why I built it**: To handle sensitive PDF operations entirely inside the local browser worker or desktop client, ensuring zero data transmission to external cloud services.
+
+* ### 📂 **[ScreenHub Display Management](https://github.com/UIhoshi/screenhub-display-management)**
+  * **What it does**: A LAN-based Electron central display management server and playback monitor client system.
+  * **Why I built it**: For stable Windows digital signage playback and playlist scheduling in completely closed-network environments.
 
 ---
 
-## 🎯 Core Technical Focus
+## 🏗️ Active Projects & Evolving Workflows
 
-* **Engineering Mindset**: Local-first & offline-capable systems, operations-oriented stability, data privacy.
-* **Core Stack**: Electron, React, TypeScript, Node.js, SQLite, Web Workers.
-* **Open to Opportunities**: Open to collaboration, technical advisory, and product development opportunities related to AI-assisted engineering, offline internal tools, and desktop software workflows.
+* ### 🧬 **[AgentLogic](https://github.com/UIhoshi/AgentLogic)**
+  * **What it is**: My personal local self-evolving rule engine and prompt operating system that structures the collaboration between myself and AI agents.
+  * **Purpose**: It enforces spec-driven development, tool routing restrictions, and context auditing to keep AI assistants disciplined, context-aware, and aligned with premium design tastes.
+
+* ### 📚 **AI Workflow Research & Language Learning**
+  * I am actively refining workflows for seamless human-AI pair programming. I am also learning English (currently reading at a 70% level) and practicing writing/communicating in English through daily development.
+
+---
+
+## 🛠️ My Technical Toolbox
+
+* **Languages & Frameworks**: JavaScript / TypeScript, React, Vite, Node.js, Electron, Python
+* **Ingestion & Storage**: SQLite, Web Workers, File System APIs, Excel parsing engines
+* **Core Philosophy**: Local-First Architecture · Data Privacy · High-Friction Verification · Operational Stability
+
+---
+
+<div align="center">
+
+*Feel free to explore my repositories or reach out if you share a passion for local-first systems and human-AI pair programming!* ✨
+
+</div>
