@@ -11,11 +11,6 @@ Before making changes here, read AGENTS.md and README.md first.
 
 Building practical software for enterprise workflows, desktop environments, and evolving human + AI collaboration.
 
----
-
-[![GitHub followers](https://img.shields.io/github/followers/UIhoshi?style=flat-square&logo=github)](https://github.com/UIhoshi)
-[![GitHub stars](https://img.shields.io/github/stars/UIhoshi?style=flat-square&logo=github)](https://github.com/UIhoshi)
-
 </div>
 
 ---
