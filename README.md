@@ -1,74 +1,67 @@
-﻿<div align="center">
+<!--
+MANDATORY LOGIC GATE
+Before making changes here, read AGENTS.md and README.md first.
+-->
 
-# UIhoshi
+<div align="center">
 
-**Independent developer · AI-assisted engineering practitioner · Based in Japan**
+# 🌌 UIhoshi
+
+**Independent Developer · AI-Assisted Engineering Practitioner · Based in Japan**
 
 Building practical software for enterprise workflows, desktop environments, and evolving human + AI collaboration.
+
+---
+
+[![GitHub followers](https://img.shields.io/github/followers/UIhoshi?style=flat-square&logo=github)](https://github.com/UIhoshi)
+[![GitHub stars](https://img.shields.io/github/stars/UIhoshi?style=flat-square&logo=github)](https://github.com/UIhoshi)
+[![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Electron%20%7C%20Node.js-blueviolet?style=flat-square)](https://github.com/UIhoshi)
 
 </div>
 
 ---
 
-## About
+## 🎯 About Me
 
-I build practical tools for enterprise operations, desktop workflows, closed-network environments, and AI-assisted engineering workflows.
+I specialize in building practical, high-integrity tools for enterprise operations, desktop workflows, closed-network environments, and AI-assisted software engineering. 
 
-With an operations-first background across desktop, network, and datacenter-facing environments, I care about software that is stable, usable, and realistic under real operational constraints.
+With an operations-first background spanning desktop, network, and datacenter environments, I focus on software that is highly stable, offline-capable, and optimized for real-world constraints.
 
-## What I Do
+---
 
-- Build desktop and local-first tools
-- Turn customer needs into working products with AI collaboration
-- Design for enterprise constraints, offline deployment, and operational stability
-- Develop evolving logic for AI-assisted engineering workflows
-- Explore structured human + AI collaboration for real-world product building
+## 🚀 Featured Work (Portfolios)
 
-## Featured Work
+The following repositories represent core product baselines designed for local-first execution and operational reliability:
 
-### [EaaSE-ExcelasaSearchEngine](https://github.com/UIhoshi/EaaSE-ExcelasaSearchEngine)
-Make Excel search fast again across messy local workbooks and CSV files, without opening them one by one.
+| Project / Repository | Core Purpose | Target Environment |
+| :--- | :--- | :--- |
+| **[EaaSE (Excel as a Search Engine)](https://github.com/UIhoshi/EaaSE-ExcelasaSearchEngine)** | Turns hundreds of local Excel workbooks and CSV files into an instant searchable index database. | Local Desktop (Windows / Linux) |
+| **[Offline PDF Toolkit (pdforge)](https://github.com/UIhoshi/pdforge)** | Offline-first PDF merge, split, and page-level editing tool (rotate, delete, drag-and-drop reorder). | Web / Electron / LAN Deployment |
+| **[ScreenHub Display Management](https://github.com/UIhoshi/screenhub-display-management)** | LAN-based central display management server and playback monitor client system. | Windows LAN / Offline Signage |
 
-### [screenhub-display-management](https://github.com/UIhoshi/screenhub-display-management)
-LAN-based Electron display management system for screen playback, remote control, offline deployment, and stable client/server delivery.
+---
 
-## Building Now
+## 🏗️ Active Projects & Evolving Mindsets
 
-### AgentLogic
-I’m building AgentLogic, a continuously evolving logic system for AI-assisted engineering, iterated from V1 to V6 through real project practice.
+### [AgentLogic (V6.65)](https://github.com/UIhoshi/AgentLogic)
+I am actively developing **AgentLogic**, a local self-evolving rule engine and prompt operating system that structures the collaboration between humans and AI agents. It enforces rigorous software spec validation, context forgetting gates, and tool routing constraints.
 
-Core themes:
-
-- project entry logic
-- context control
-- execution discipline
-- documentation sync
-- validation and packaging awareness
-- structured collaboration between human and AI
+* **Core Principles**:
+  * Project start & update gate enforcement (`00_START_HERE.md` / `MAIN.md`)
+  * Spec-Driven Development (SDD) contract checks
+  * Multi-turn context budget auditing and dream-state memory consolidation
+  * Visual aesthetic design-first prototyping gates
 
 ### AI Workflow Research
-I’m also exploring AI-related product directions beyond LAN or closed-network systems, especially around:
+Beyond closed-network systems, I am researching advanced methodologies for human + AI collaborative software building, specifically:
+* Reusable execution logic and portable domain skills
+* Tool security sandboxing and safety interception pipelines
+* Documentation-driven collaboration models
 
-- AI-assisted engineering workflows
-- reusable execution logic
-- context-safe agent behavior
-- documentation-driven collaboration
-- practical productization of human + AI workflows
+---
 
-## Open to Opportunities
+## 🎯 Core Technical Focus
 
-I’m open to collaboration, product work, and engineering opportunities related to:
-
-- AI-assisted product development
-- desktop and local-first tools
-- enterprise workflow software
-- internal tools for operational or closed-network environments
-
-## Focus
-
-- AI-assisted engineering
-- Human + AI collaboration logic
-- Desktop tools
-- Enterprise workflows
-- Operations-oriented software
-- Local-first / offline-capable systems
+* **Engineering Mindset**: Local-first & offline-capable systems, operations-oriented stability, data privacy.
+* **Core Stack**: Electron, React, TypeScript, Node.js, SQLite, Web Workers.
+* **Open to Opportunities**: Open to collaboration, technical advisory, and product development opportunities related to AI-assisted engineering, offline internal tools, and desktop software workflows.
