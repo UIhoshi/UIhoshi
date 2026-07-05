@@ -7,7 +7,7 @@ Before making changes here, read AGENTS.md and README.md first.
 
 # UIhoshi
 
-**Independent developer · AI-assisted engineering practitioner · Based in Japan 🇯🇵**
+**Independent developer · AI-assisted engineering practitioner · Based in Japan**
 
 Building practical software for enterprise workflows, desktop environments, and evolving human + AI collaboration.
 
@@ -20,32 +20,65 @@ Building practical software for enterprise workflows, desktop environments, and 
 
 ---
 
-## 🎯 About
+## About
 
-Hi! I'm an independent developer based in Japan. With a background in operations across desktop, network, and datacenter environments, I focus on building software that is stable, usable, and optimized for real-world operational constraints.
+I build practical tools for enterprise operations, desktop workflows, closed-network environments, and AI-assisted engineering workflows.
 
-I enjoy exploring structured human + AI collaboration to create local-first, privacy-respecting tools. I am also actively learning English and practicing communicating in English through my daily development workflows.
+With an operations-first background across desktop, network, and datacenter-facing environments, I care about software that is stable, usable, and realistic under real operational constraints.
 
----
+## What I Do
 
-## 🚀 Crafted Tools
+- Build desktop and local-first tools
+- Turn customer needs into working products with AI collaboration
+- Design for enterprise constraints, offline deployment, and operational stability
+- Develop evolving logic for AI-assisted engineering workflows
+- Explore structured human + AI collaboration for real-world product building
 
-*   **[pdforge (Offline PDF Toolkit)](https://github.com/UIhoshi/pdforge)** — Offline-first PDF merge, split, and page-level editing tool for Web, Windows, and Linux.
-*   **[EaaSE-ExcelasaSearchEngine](https://github.com/UIhoshi/EaaSE-ExcelasaSearchEngine)** — Turn messy local Excel workbooks and CSV files into an instant searchable index database.
-*   **[screenhub-display-management](https://github.com/UIhoshi/screenhub-display-management)** — LAN-based display management system for signage playback and remote client control.
+## Featured Work
 
----
+### [pdforge](https://github.com/UIhoshi/pdforge)
+Offline-first PDF merge, split, and page-level preview/manipulation tool for Web, Windows, and Linux.
 
-## 🏗️ Active Focus
+### [EaaSE-ExcelasaSearchEngine](https://github.com/UIhoshi/EaaSE-ExcelasaSearchEngine)
+Make Excel search fast again across messy local workbooks and CSV files, without opening them one by one.
 
-*   **[AgentLogic](https://github.com/UIhoshi/AgentLogic)** — A local self-evolving rule engine and prompt operating system that structures human-AI pair programming.
-*   **AI Workflow Research** — Exploring context-safe agent behavior, reusable execution logic, and documentation-driven development.
-*   **Focus Areas** — Local-first / offline-capable systems, data privacy, and operations-oriented software.
+### [screenhub-display-management](https://github.com/UIhoshi/screenhub-display-management)
+LAN-based Electron display management system for screen playback, remote control, offline deployment, and stable client/server delivery.
 
----
+## Building Now
 
-<div align="center">
+### AgentLogic
+I’m building AgentLogic, a continuously evolving logic system for AI-assisted engineering, iterated from V1 to V6 through real project practice.
 
-*Feel free to explore my repositories or reach out if you share a passion for local-first systems!* ✨
+Core themes:
+- project entry logic
+- context control
+- execution discipline
+- documentation sync
+- validation and packaging awareness
+- structured collaboration between human and AI
 
-</div>
+### AI Workflow Research
+I’m also exploring AI-related product directions beyond LAN or closed-network systems, especially around:
+- AI-assisted engineering workflows
+- reusable execution logic
+- context-safe agent behavior
+- documentation-driven collaboration
+- practical productization of human + AI workflows
+
+## Open to Opportunities
+
+I’m open to collaboration, product work, and engineering opportunities related to:
+- AI-assisted product development
+- desktop and local-first tools
+- enterprise workflow software
+- internal tools for operational or closed-network environments
+
+## Focus
+
+- AI-assisted engineering
+- Human + AI collaboration logic
+- Desktop tools
+- Enterprise workflows
+- Operations-oriented software
+- Local-first / offline-capable systems
